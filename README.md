@@ -1,0 +1,2 @@
+# VersusPari
+Xamarin app
